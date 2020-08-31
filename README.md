@@ -88,3 +88,4 @@ if __name__ == "__main__":
         elif 'quit' in query:
             speak("Thank you sir for your time! Farewell...........")    
             quit()
+ 
